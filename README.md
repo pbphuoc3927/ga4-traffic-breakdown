@@ -42,7 +42,7 @@ project-3-ga4-traffic-breakdown/
    ```bash
    git clone https://github.com/your-username/project-3-ga4-traffic-breakdown.git
    cd project-3-ga4-traffic-breakdown
-````
+   ```
 
 2. **Cài đặt dependencies**
 
